@@ -1,0 +1,5 @@
+__pycache__/
+*.mp4
+*.png
+data/
+# This will ignore all the 'evaluation' images and 'pipeline' videos in your screenshot
